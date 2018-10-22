@@ -1,0 +1,300 @@
+{
+  "nodes": [
+ {
+   "id": "Start",
+   "group": 1,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Merkle",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Dentsu Aegis Network",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Moz",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Amazon Web Services",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "BCG",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "KPMG",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Deloitte",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Zillow Group",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "CommerceHub",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Boeing",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Apptio",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "EY",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Soasta",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Infosys Ltd",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Accenture",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "T-Mobile",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Self-employed",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Pointmarc",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Microsoft",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Annik",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Nordstrom",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Amazon.com LLC",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Mercent Retail",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Society Consulting",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Other Small-size Firm",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Student",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Other Mid-size Firm",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Other Large-size Firm",
+   "group": 2,
+   "nodeGroup": 0
+ },
+ {
+   "id": "Other Consultancy",
+   "group": 2,
+   "nodeGroup": 0
+ }
+],
+  "links": 
+
+
+
+[
+ {
+   "Start": "Start",
+   "Merkle": "Dentsu Aegis Network",
+   "1": 1
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Moz",
+   "1": 1
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Amazon Web Services",
+   "1": 1
+ },
+ {
+   "Start": "Start",
+   "Merkle": "BCG",
+   "1": 1
+ },
+ {
+   "Start": "Start",
+   "Merkle": "KPMG",
+   "1": 1
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Deloitte",
+   "1": 2
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Zillow Group",
+   "1": 2
+ },
+ {
+   "Start": "Start",
+   "Merkle": "CommerceHub",
+   "1": 2
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Boeing",
+   "1": 3
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Apptio",
+   "1": 3
+ },
+ {
+   "Start": "Start",
+   "Merkle": "EY",
+   "1": 3
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Soasta",
+   "1": 3
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Infosys Ltd",
+   "1": 4
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Accenture",
+   "1": 4
+ },
+ {
+   "Start": "Start",
+   "Merkle": "T-Mobile",
+   "1": 4
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Self-employed",
+   "1": 4
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Pointmarc",
+   "1": 5
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Microsoft",
+   "1": 14
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Annik",
+   "1": 14
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Nordstrom",
+   "1": 15
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Amazon.com LLC",
+   "1": 16
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Mercent Retail",
+   "1": 18
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Society Consulting",
+   "1": 18
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Other Small-size Firm",
+   "1": 21
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Student",
+   "1": 25
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Other Mid-size Firm",
+   "1": 25
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Other Large-size Firm",
+   "1": 44
+ },
+ {
+   "Start": "Start",
+   "Merkle": "Other Consultancy",
+   "1": 87]
+ }
+]
+    }
